@@ -1,6 +1,6 @@
 from player import Player
 
-def race_print(self, race):
+def race_print(race):
         if race == 'whit':
             print('easy choice')
             health = 100
